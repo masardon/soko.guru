@@ -1,0 +1,4 @@
+#Fri Dec 28 14:08:56 WIB 2018
+base.0=/Users/dongidon/Development/apps/soko_guru/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
